@@ -10,7 +10,7 @@ This is how I learn.  Creating the mindmaps helps me learn, and helps me explain
 I am using Xmind Desktop Pro V8 (now called Classic) to create these mindmaps.  These links below are read-only exports from Xmind Desktop Pro V8.  For those interested in downloading the free version, here is the [direct link:](https://www.xmind.net/xmind8-pro/)
 
 #### Contributions
-Several colleagues I work with help me review content, suggest improvements, point out errors, typos, etc. - thanks much to Anna, Alvaro, Dario, and many others for your help.
+Several colleagues I work with help me review content, suggest improvements, point out errors, typos, etc. - thanks much to Anna, Alvaro, Dario, Ron, and many others for your help.
 
 #### Known issues
 So far the only issue I know about is with the export from Xmind in terms of capitalizing.  For example, instead of "AWS Security Hub", the export shows as "Aws Security Hub".  We have contacted Xmind and they logged this bug, and hope that will be fixed in a future release.
@@ -45,8 +45,4 @@ AWS CloudTrail is an AWS service that helps you enable governance, compliance, a
 
 This mindmap also includes the recently released CloudTrail Lake.  Cloud Trail Lake is a managed data lake that lets organizations aggregate, immutably store, and query events recorded by CloudTrail for auditing, security investigation, and operational troubleshooting. This new platform simplifies CloudTrail analysis workflows by integrating collection, storage, preparation, and optimization for analysis and query in the same product. This removes the need to maintain separate data processing pipelines that span across teams and products to analyze CloudTrail events.
 [Link to mindmap](https://www.xmind.net/m/7hBh2C)
-
-
-
-
 
