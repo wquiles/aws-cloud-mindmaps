@@ -7,7 +7,7 @@ This repo contains mindmaps that I have created about AWS based on public inform
 This is how I learn.  Creating the mindmaps helps me learn, and helps me explain a topic to others.  I started using them with my customers and I got interrupted within a few min: "Will, can I please have that mindmap?".  After many of these encounters I realized I should make them available to others who might find them useful as well.
 
 ### Software
-I am using Xmind Desktop Pro V8 (now called Classic) to create these mindmaps.  These links below are read-only exports from Xmind Desktop Pro V8.  For those interested in downloading the free version, here is the direct link
+I am using Xmind Desktop Pro V8 (now called Classic) to create these mindmaps.  These links below are read-only exports from Xmind Desktop Pro V8.  For those interested in downloading the free version, here is the [direct link](https://www.xmind.net/xmind8-pro/)
 
 ### Contributions
 Several colleagues I work with help me review content, suggest improvements, point out errors, typos, etc. - thanks much to Anna, Alvaro, Dario, and many others for your help.
