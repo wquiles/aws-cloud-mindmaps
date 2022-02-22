@@ -25,29 +25,28 @@ If you have suggestions, fixes, improvements, or ideas to make these better or c
 
 ## AWS Security Hub
 AWS Security Hub is a cloud security posture management service that performs security best practice checks, aggregates alerts, and enables automated remediation.
-[Link to mindmap](https://www.xmind.net/m/rKRR4K)
+[Mindmap version 4.11](https://www.xmind.net/m/rKRR4K)
 
 
 ## Amazon GuardDuty
-Amazon GuardDuty - A threat detection service that continuously monitors your AWS accounts and workloads for malicious activity and delivers detailed security findings for visibility and remediation.
-[Link to mindmap](https://www.xmind.net/m/h7AcB7)
+Amazon GuardDuty - A threat detection service that continuously monitors your AWS accounts and workloads for malicious activity and delivers detailed security findings for visibility and remediation.   
+[Mindmap version 1.7](https://www.xmind.net/m/h7AcB7)
 
 
 ## Amazon Inspector
 Amazon Inspector - An automated vulnerability management service that continually scans AWS workloads for software vulnerabilities and unintended network exposure.
 
 The original Inspector (prior to re:Invent) is now called Inspector Classic. The new Amazon Inspector, a completely rearchitected and redesigned version of Amazon Inspector Classic, is now available across AWS Regions. The new Amazon Inspector has expanded coverage to add support for container images residing in Amazon Elastic Container Registry (Amazon ECR) in addition to EC2 instances. The new Amazon Inspector offers multi-account support through integration with AWS Organizations, and continual software vulnerability and network reachability scanning based on common vulnerabilities and exposures (CVEs). We encourage you to explore and use these and other new and improved features, and to benefit from the significantly enhanced security value. 
-[Link to mindmap](https://www.xmind.net/m/gHDGSe)
+[Mindmap version 1.9](https://www.xmind.net/m/gHDGSe)
 
 
 ## AWS CloudTrail (and intro to CloudTrail Lake)
 AWS CloudTrail is an AWS service that helps you enable governance, compliance, and operational and risk auditing of your AWS account. Actions taken by a user, role, or an AWS service are recorded as events in CloudTrail. Events include actions taken in the AWS Management Console, AWS Command Line Interface, and AWS SDKs and APIs.
 
-This mindmap also includes the recently released CloudTrail Lake.  Cloud Trail Lake is a managed data lake that lets organizations aggregate, immutably store, and query events recorded by CloudTrail for auditing, security investigation, and operational troubleshooting. This new platform simplifies CloudTrail analysis workflows by integrating collection, storage, preparation, and optimization for analysis and query in the same product. This removes the need to maintain separate data processing pipelines that span across teams and products to analyze CloudTrail events.
-[Link to mindmap](https://www.xmind.net/m/xmtsh9)
+This mindmap also includes the recently released CloudTrail Lake.  Cloud Trail Lake is a managed data lake that lets organizations aggregate, immutably store, and query events recorded by CloudTrail for auditing, security investigation, and operational troubleshooting. This new platform simplifies CloudTrail analysis workflows by integrating collection, storage, preparation, and optimization for analysis and query in the same product. This removes the need to maintain separate data processing pipelines that span across teams and products to analyze CloudTrail events.  
+[Mindmap version 1.7](https://www.xmind.net/m/xmtsh9)
 
 
 ## AWS Config
-AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations. With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines. This enables you to simplify compliance auditing, security analysis, change management, and operational troubleshooting.
-[Link to mindmap](https://www.xmind.net/m/pJCyYJ)
-
+AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations. With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines. This enables you to simplify compliance auditing, security analysis, change management, and operational troubleshooting.  
+[Mindmap version 1.7](https://www.xmind.net/m/pJCyYJ)
