@@ -40,7 +40,7 @@ The original Inspector (prior to re:Invent) is now called Inspector Classic. The
 ## AWS CloudTrail (and intro to CloudTrail Lake)
 AWS CloudTrail is an AWS service that helps you enable governance, compliance, and operational and risk auditing of your AWS account. Actions taken by a user, role, or an AWS service are recorded as events in CloudTrail. Events include actions taken in the AWS Management Console, AWS Command Line Interface, and AWS SDKs and APIs.
 
-This mindmap also includes the recently released CloudTrail Lake.  Cloud Trail Lake is a managed data lake that lets organizations aggregate, immutably store, and query events recorded by CloudTrail for auditing, security investigation, and operational troubleshooting. This new platform simplifies CloudTrail analysis workflows by integrating collection, storage, preparation, and optimization for analysis and query in the same product. This removes the need to maintain separate data processing pipelines that span across teams and products to analyze CloudTrail events.  [(Link to mindmap version 1.7)](https://www.xmind.net/m/xmtsh9)
+This mindmap also includes the recently released CloudTrail Lake.  Cloud Trail Lake is a managed data lake that lets organizations aggregate, immutably store, and query events recorded by CloudTrail for auditing, security investigation, and operational troubleshooting. This new platform simplifies CloudTrail analysis workflows by integrating collection, storage, preparation, and optimization for analysis and query in the same product. This removes the need to maintain separate data processing pipelines that span across teams and products to analyze CloudTrail events.  [(Link to mindmap version 1.10)](https://www.xmind.net/m/sY4HG3)
 
 
 ## AWS Config
