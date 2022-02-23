@@ -24,7 +24,7 @@ If you have suggestions, fixes, improvements, or ideas to make these better or c
 # AWS Mindmaps
 
 ## AWS Security Hub
-AWS Security Hub is a cloud security posture management service that performs security best practice checks, aggregates alerts, and enables automated remediation.  [(Link to mindmap version 4.11)](https://www.xmind.net/m/rKRR4K)
+AWS Security Hub is a cloud security posture management service that performs security best practice checks, aggregates alerts, and enables automated remediation.  [(Link to mindmap version 4.12)](https://www.xmind.net/m/4t4uPC)
 
 
 ## Amazon GuardDuty
