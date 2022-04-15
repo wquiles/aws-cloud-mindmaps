@@ -42,7 +42,7 @@ AWS CloudTrail is an AWS service that helps you enable governance, compliance, a
 
 This mindmap also includes the recently released CloudTrail Lake.  Cloud Trail Lake is a managed data lake that lets organizations aggregate, immutably store, and query events recorded by CloudTrail for auditing, security investigation, and operational troubleshooting. This new platform simplifies CloudTrail analysis workflows by integrating collection, storage, preparation, and optimization for analysis and query in the same product. This removes the need to maintain separate data processing pipelines that span across teams and products to analyze CloudTrail events.  [(Link to mindmap version 1.11)](https://www.xmind.net/m/cv48v2)
 
-
+ 
 ## AWS Config
 AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations. With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines. This enables you to simplify compliance auditing, security analysis, change management, and operational troubleshooting. [(Link to mindmap version 1.6)](https://www.xmind.net/m/ACQQq3)
 
