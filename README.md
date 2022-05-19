@@ -24,11 +24,11 @@ If you have suggestions, fixes, improvements, or ideas to make these better or c
 # AWS Mindmaps
 
 ## AWS Security Hub
-AWS Security Hub is a cloud security posture management service that performs security best practice checks, aggregates alerts, and enables automated remediation.  [(Link to mindmap version 4.12)](https://www.xmind.net/m/4t4uPC)
+AWS Security Hub is a cloud security posture management service that performs security best practice checks, aggregates alerts, and enables automated remediation.  [(Link to mindmap version 4.16)](https://www.xmind.net/m/sYMeg9)
 
 
 ## Amazon GuardDuty
-Amazon GuardDuty - A threat detection service that continuously monitors your AWS accounts and workloads for malicious activity and delivers detailed security findings for visibility and remediation. [(Link to mindmap version 1.9)](https://www.xmind.net/m/D6vnHm)
+Amazon GuardDuty - A threat detection service that continuously monitors your AWS accounts and workloads for malicious activity and delivers detailed security findings for visibility and remediation. [(Link to mindmap version 1.12)](https://www.xmind.net/m/5zx25t)
 
 
 ## Amazon Inspector
@@ -50,7 +50,7 @@ AWS Config is a service that enables you to assess, audit, and evaluate the conf
 ## Amazon Detective
 AWS security services like Amazon GuardDuty, Amazon Macie, and AWS Security Hub as well as partner security products can be used to identify potential security issues, or findings. These services are really helpful in alerting you when something is wrong and pointing out where to go to fix it. But sometimes there might be a security finding where you need to dig a lot deeper and analyze more information to isolate the root cause and take action. Determining the root cause of security findings can be a complex process that often involves collecting and combining logs from many separate data sources, using extract, transform, and load (ETL) tools or custom scripting to organize the data, and then security analysts having to analyze the data and conduct lengthy investigations.
 
-Amazon Detective simplifies this process by enabling your security teams to easily investigate and quickly get to the root cause of a finding. Amazon Detective can analyze trillions of events from multiple data sources such as Virtual Private Cloud (VPC) Flow Logs, AWS CloudTrail, and Amazon GuardDuty, and automatically creates a unified, interactive view of your resources, users, and the interactions between them over time. With this unified view, you can visualize all the details and context in one place to identify the underlying reasons for the findings, drill down into relevant historical activities, and quickly determine the root cause.  [(Link to mindmap version 1.13)](https://www.xmind.net/m/rdJPsS)
+Amazon Detective simplifies this process by enabling your security teams to easily investigate and quickly get to the root cause of a finding. Amazon Detective can analyze trillions of events from multiple data sources such as Virtual Private Cloud (VPC) Flow Logs, AWS CloudTrail, and Amazon GuardDuty, and automatically creates a unified, interactive view of your resources, users, and the interactions between them over time. With this unified view, you can visualize all the details and context in one place to identify the underlying reasons for the findings, drill down into relevant historical activities, and quickly determine the root cause.  [(Link to mindmap version 1.14)](https://www.xmind.net/m/yfdAzy)
 
 
 ## Amazon Macie
