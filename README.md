@@ -76,4 +76,4 @@ This security mindmap is a high-level representation of the various ways AWS can
 
 
 ## Data Security in AWS
-This is a mindmap for Data Security in AWS, which is helpful when having security discussions involving data protection. In addition to resources & links, this mindmap includes topics on data security fundamentals and data discovery & classification, which should be part of these discussions. [(Link to mindmap version 1.11)](https://www.xmind.net/m/F5cjHZ)
+This is a mindmap for Data Security in AWS, which is helpful when having security discussions involving data protection. In addition to resources & links, this mindmap includes topics on data security fundamentals and data discovery & classification, which should be part of these discussions. [(Link to mindmap version 1.12)](https://www.xmind.net/m/cF2abg)
