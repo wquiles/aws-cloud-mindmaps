@@ -74,3 +74,6 @@ AWS Managed Services (AMS) helps you operate your AWS infrastructure more effici
 ## AWS Security
 This security mindmap is a high-level representation of the various ways AWS can help customers with security, compliance, and governance, by showcasing not only AWS native (Security Domains) and partner solutions, but also ways in which AWS and/or our security partners can help deploy and manage these solutions.  Finally, I am including a branch in the mindmap on Learning & Guidance with links to many of the training and reference materials on the best practices for deploying solutions in the AWS cloud. [(Link to mindmap version 1.15)](https://www.xmind.net/m/2SQHGN)
 
+
+## Data Security in AWS
+This is a mindmap for Data Security in AWS, which is helpful when having security discussions involving data protection. In addition to resources & links, this mindmap includes topics on data security fundamentals and data discovery & classification, which should be part of these discussions. [(Link to mindmap version 1.1)](https://www.xmind.net/m/F5cjHZ)
