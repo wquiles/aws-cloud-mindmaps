@@ -77,3 +77,6 @@ This security mindmap is a high-level representation of the various ways AWS can
 
 ## Data Security in AWS
 This is a mindmap for Data Security in AWS, which is helpful when having security discussions involving data protection. In addition to resources & links, this mindmap includes topics on data security fundamentals and data discovery & classification, which should be part of these discussions. [(Link to mindmap version 1.12)](https://www.xmind.net/m/cF2abg)
+
+## Network & Edge Security in AWS
+This is a mindmap where I have grouped and documented (at a high-level) the various ways in which AWS Native Network & Edge Services can help protect customers workloads in AWS. [(Link to mindmap version 1.10)](https://www.xmind.net/m/nXjdEf)
